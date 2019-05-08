@@ -25,9 +25,9 @@ $(document).ready(function () {
         var actionCodeSettings = {
             // URL you want to redirect back to. The domain (www.example.com) for this
             // URL must be whitelisted in the Firebase Console.
-            // url: 'https://www.example.com/finishSignUp?cartId=1234',
-            // // This must be true.
-            // handleCodeInApp: true,
+            url: 'https://pvraab.github.io/Login/',
+            // This must be true.
+            handleCodeInApp: true,
             // iOS: {
             //     bundleId: 'com.example.ios'
             // },
